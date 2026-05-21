@@ -1,6 +1,3 @@
-# Library_System
-Library system :- Using File handling, Error handling, and OOPs concept.
-
 # 📚 Library Management System (Python)
 
 A simple CLI-based Library Management System built using Python.
